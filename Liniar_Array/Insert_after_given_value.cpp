@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-    cout << ""
+    cout << "";
 
 
 
-    cout<< "whice value want to insertion index: " ;
+    cout<< "whice value want to insertion k index: " ;
     int value;
     cin>> value;
 
@@ -27,3 +27,4 @@ int main()
         cout << arr[i] <<" ";
     }
     cout << endl;
+}
